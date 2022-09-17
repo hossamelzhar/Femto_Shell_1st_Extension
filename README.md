@@ -13,8 +13,10 @@ The Extension Adds 3 commands:
 
 
 The used Commands to build:
+
 1- The Object file "main.o"
     gcc -o main.o -c main.c  
+
 /* same for rand.o, fact.o, fib.o */
  
 2- The static Library "functions.a"
